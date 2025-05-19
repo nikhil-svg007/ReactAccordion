@@ -1,0 +1,12 @@
+.accordion {
+  border: 2px solid black;
+  margin: 2px;
+  padding: 7px;
+  position: realtive;
+}
+.span {
+  position: absolute;
+  font-size: 20px;
+  right: 50px;
+  cursor: pointer;
+}
